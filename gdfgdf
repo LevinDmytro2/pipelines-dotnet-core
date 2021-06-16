@@ -1,0 +1,1 @@
+sudo yum install gcc openssl-devel bzip2-devel libffi-devel zlib-devel sqlite-devel xz-devel ncurses-devel tk-devel readline-devel libuuid-devel -y
